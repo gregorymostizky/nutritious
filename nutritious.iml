@@ -18,6 +18,7 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] nokogiri (v1.4.4, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/nokogiri-1.4.4)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] i18n (v0.5.0, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/i18n-0.5.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] hpricot (v0.8.4, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/hpricot-0.8.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] nutritious (v0.0.1, /home/builder/.rvm/gems/ruby-1.9.2-p180/gems/nutritious-0.0.1)" level="application" />
   </component>
 </module>
 
